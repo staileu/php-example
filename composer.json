@@ -1,0 +1,5 @@
+{
+    "require": {
+        "staileu/php-sdk": "v0.0.2-beta"
+    }
+}
